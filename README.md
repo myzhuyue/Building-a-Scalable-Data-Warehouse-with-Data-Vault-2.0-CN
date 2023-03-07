@@ -25,7 +25,7 @@ Translater: Derek.Zhu
 Last update datetime: 2023-Mar-6th
 **************************************************************
 
-Table of contents
+## Table of contents
 
 Cover
 
@@ -35,76 +35,99 @@ Table of Contents
 
 Copyright
 
-Authors Biography
+Authors Biography -- 作者介绍
 
-Foreword
+Foreword -- 前言
 
-Preface
+Preface -- 前言
 
-Acknowledgments
+Acknowledgments -- 说明
 
 
-
-Chapter 1: Introduction to Data Warehousing
+## Chapter 1: Introduction to Data Warehousing
+第一章：数据仓库介绍
 
 Abstract
+概要
 
 1.1. History of Data Warehousing
+数据仓库的历史
 
 1.2. The Enterprise Data Warehouse Environment
+企业级数据仓库环境
 
 1.3. Introduction to Data Vault 2.0
+Data Vault 2.0的介绍
 
 1.4. Data Warehouse Architecture
+数据仓库架构
 
-
-Chapter 2: Scalable Data Warehouse Architecture
+## Chapter 2: Scalable Data Warehouse Architecture
+第二章：可扩展的数据仓库架构
 
 Abstract
+概要
 
 2.1. Dimensions of Scalable Data Warehouse Architectures
+可扩展的数据仓库架构的主要维度
 
 2.2. Data Vault 2.0 Architecture
+Data Vault 2.0的架构
 
-
-Chapter 3: The Data Vault 2.0 Methodology
+## Chapter 3: The Data Vault 2.0 Methodology
+第三章：Data Vault 2.0的方法论
 
 Abstract
+概要
 
 3.1. Project Planning
+项目计划
 
 3.2. Project Execution
+项目执行
 
 3.3. Review and Improvement
+回顾总结与改善
 
-
-Chapter 4: Data Vault 2.0 Modeling
+## Chapter 4: Data Vault 2.0 Modeling
+第四章：Data Vault 2.0数据建模
 
 Abstract
+概要
 
 4.1. Introduction to Data Vault Modeling
+Data Vault数据建模介绍
 
 4.2. Data Vault Modeling Vocabulary
+Data Vault数据建模常用词汇
 
 4.3. Hub Definition
+实体的定义
 
 4.4. Link Definition
+链接的定义
 
 4.5. Satellite Definition
+卫星的定义
 
 
-Chapter 5: Intermediate Data Vault Modeling
+## Chapter 5: Intermediate Data Vault Modeling
+第五章：中阶Data Vault数据建模
 
 Abstract
+概要
 
 5.1. Hub Applications
+实体的应用
 
 5.2. Link Applications
+链接的应用
 
 5.3. Satellite Applications
+卫星的应用
 
 
-Chapter 6: Advanced Data Vault Modeling
+## Chapter 6: Advanced Data Vault Modeling
 
 Abstract
 
@@ -115,7 +138,7 @@ Abstract
 6.3. Reference Tables
 
 
-Chapter 7: Dimensional Modeling
+## Chapter 7: Dimensional Modeling
 
 Abstract
 
@@ -128,7 +151,7 @@ Abstract
 7.4. Dimension Design
 
 
-Chapter 8: Physical Data Warehouse Design
+## Chapter 8: Physical Data Warehouse Design
 
 Abstract
 
@@ -145,7 +168,7 @@ Abstract
 8.6. Setting up the Data Warehouse
 
 
-Chapter 9: Master Data Management
+## Chapter 9: Master Data Management
 
 Abstract
 
@@ -168,7 +191,7 @@ Abstract
 9.9. Integrating MDS with the Data Vault and Operational Systems
 
 
-Chapter 10: Metadata Management
+## Chapter 10: Metadata Management
 
 Abstract
 
@@ -183,7 +206,7 @@ Abstract
 10.5. Implementing the Error Mart
 
 
-Chapter 11: Data Extraction
+## Chapter 11: Data Extraction
 
 Abstract
 
@@ -208,7 +231,7 @@ Abstract
 11.10. Sourcing Master Data from MDS
 
 
-Chapter 12: Loading the Data Vault
+## Chapter 12: Loading the Data Vault
 
 Abstract
 
@@ -219,7 +242,7 @@ Abstract
 12.3. Truncating the Staging Area
 
 
-Chapter 13: Implementing Data Quality
+## Chapter 13: Implementing Data Quality
 
 Abstract
 
@@ -244,7 +267,7 @@ Abstract
 13.10. Creating Dimensions from Same-As Links
 
 
-Chapter 14: Loading the Dimensional Information Mart
+## Chapter 14: Loading the Dimensional Information Mart
 
 Abstract
 
@@ -263,7 +286,7 @@ Abstract
 14.7. About Hash Keys in the Information Mart
 
 
-Chapter 15: Multidimensional Database
+## Chapter 15: Multidimensional Database
 
 Abstract
 
@@ -276,4 +299,4 @@ Abstract
 15.4. Accessing the Cube
 
 
-Subject Index
+## Subject Index
