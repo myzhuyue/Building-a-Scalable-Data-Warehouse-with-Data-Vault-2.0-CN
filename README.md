@@ -92,13 +92,13 @@ Abstract
 ## Chapter 4: Data Vault 2.0 Modeling
 第四章：Data Vault 2.0数据建模
 
-Abstract
+[Abstract](Chapter%204%20-%20Data%20Vault%202.0%20Modeling/4.0%20-%20概要.md)
 概要
 
-4.1. Introduction to Data Vault Modeling
+[4.1. Introduction to Data Vault Modeling](Chapter%204%20-%20Data%20Vault%202.0%20Modeling/4.1%20-%20介绍Data%20Vault数据建模.md)
 Data Vault数据建模介绍
 
-4.2. Data Vault Modeling Vocabulary
+[4.2. Data Vault Modeling Vocabulary](Chapter%204%20-%20Data%20Vault%202.0%20Modeling/4.2%20-%20Data%20Vault%20建模常用语.md)
 Data Vault数据建模常用词汇
 
 4.3. Hub Definition
