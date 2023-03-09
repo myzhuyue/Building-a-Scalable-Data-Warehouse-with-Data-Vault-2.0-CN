@@ -37,9 +37,9 @@ Copyright
 
 Authors Biography -- 作者介绍
 
-[Foreword -- 前言](https://github.com/myzhuyue/Building-a-Scalable-Data-Warehouse-with-Data-Vault-2.0-CN/blob/main/Chapter%200%20-%20Foreword/01%20-%20%E5%89%8D%E8%A8%80.md)
+[Foreword -- 前言](Chapter%200%20-%20Foreword/01%20-%20前言.md)
 
-Preface -- 序言
+[Preface -- 序言](Chapter%200%20-%20Foreword/02%20-%20序言.md)
 
 Acknowledgments -- 说明
 
